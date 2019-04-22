@@ -1,0 +1,7 @@
+{
+  "darwin-sha256": "11l490fgbwr53va8rbayidhhwif15x4q0jh2aa9cpjy46p910xz7",
+  "linux-sha256": "0bjljigcff5i17n0i0li9hn4cv8dskfjywsbis28mnj58yq2zb0w",
+  "linux-url": "https://github.com/buildkite/agent/releases/download/v3.11.2/buildkite-agent-linux-amd64-3.11.2.tar.gz",
+  "darwin-url": "https://github.com/buildkite/agent/releases/download/v3.11.2/buildkite-agent-darwin-amd64-3.11.2.tar.gz",
+  "version": "3.11.2"
+}
